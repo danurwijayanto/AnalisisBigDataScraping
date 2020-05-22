@@ -9,3 +9,43 @@ Dpraodv: A dyanamic learning system against blackhole attack in aodv based manet
 Ad-hoc on demand distance Vector routing (AODV),https://media.gradebuddy.com/documents/3107203/4e440567-1f3b-4e47-8585-8d2c24b05758.pdf
 An implementation study of the AODV routing protocol,https://ieeexplore.ieee.org/abstract/document/904764/
 How to misuse AODV: a case study of insider attacks against mobile ad-hoc routing protocols,https://www.sciencedirect.com/science/article/pii/S1570870504000307
+"Performance Comparison of AODV, DSR and ZRP Routing Protocols in MANET's",https://ieeexplore.ieee.org/abstract/document/5376775/
+"Performance analysis of AODV, DSR, OLSR and DSDV routing protocols using NS2 Simulator",https://www.sciencedirect.com/science/article/pii/S1877705812008454
+"Performance comparison of AODV, DSDV, OLSR and DSR routing protocols in mobile ad hoc networks",http://www.csjournals.com/IJITKM/PDF%203-1/74.pdf
+Security enhancements in AODV protocol for wireless ad hoc networks,https://ieeexplore.ieee.org/abstract/document/957123/
+DOA: DSR over AODV routing for mobile ad hoc networks,https://ieeexplore.ieee.org/abstract/document/1683789/
+[CITATION][C] Ad hoc on demand distance vector (AODV) routing (RFC 3561),
+An intrusion detection tool for AODV-based ad hoc wireless networks,https://ieeexplore.ieee.org/abstract/document/1377212/
+Performance comparison of ad-hoc routing protocols AODV and DSR,https://ieeexplore.ieee.org/abstract/document/5256641/
+Improving route stability and overhead on AODV routing protocol and make it usable for VANET,https://ieeexplore.ieee.org/abstract/document/5158897/
+Adapting AODV for IEEE 802.15. 4 mesh sensor networks: theoretical discussion and performance evaluation in a real environment,https://ieeexplore.ieee.org/abstract/document/1648456/
+AODV based energy efficient routing protocol for maximum lifetime in MANET,https://ieeexplore.ieee.org/abstract/document/1602209/
+"A study and comparison of OLSR, AODV and TORA routing protocols in ad hoc networks",https://ieeexplore.ieee.org/abstract/document/5941974/
+Security threats and solutions in MANETs: A case study using AODV and SAODV,https://www.sciencedirect.com/science/article/pii/S1084804512000331
+Evaluation of multi-radio extensions to AODV for wireless mesh networks,https://dl.acm.org/doi/abs/10.1145/1164783.1164791
+Dynamically adaptive multipath routing based on AODV,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.7349&rep=rep1&type=pdf
+A dynamic anomaly detection scheme for AODV-based mobile ad hoc networks,https://ieeexplore.ieee.org/abstract/document/4689379/
+Enhancing AODV routing protocol using mobility parameters in VANET,https://ieeexplore.ieee.org/abstract/document/4493539/
+Performance Comparison and Analysis of DSDV and AODV for MANET,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.163.4920&rep=rep1&type=pdf
+Improved neighbor detection algorithm for AODV routing protocol,https://ieeexplore.ieee.org/abstract/document/1254061/
+Performance metric comparison of AODV and DSDV routing protocols in MANETs using NS-2,https://core.ac.uk/download/pdf/25744655.pdf
+Comparing AODV and OLSR routing protocols,https://www.researchgate.net/profile/Mohamed_Mourad_Lafifi/post/How_can_I_change_the_carned_file_in_the_veins_project_so_I_can_choose_the_routing_protocol_of_the_cars/attachment/59d639a679197b8077996dac/AS%3A402910509846528%401473072759011/download/aodv-oslr-comparison.pdf
+A quick guide to AODV routing,http://www.cs.uccs.edu/~gsc/pub/master/pjfong/UCCS%20Project/Papers/A%2520Quick%2520Guide%2520to%2520AODV%2520Routing.pdf
+MANET routing protocols and wormhole attack against AODV,http://www.academia.edu/download/32275618/20100403.pdf
+Securing AODV: the A-SAODV secure routing prototype,https://ieeexplore.ieee.org/abstract/document/4473093/
+Hierarchical mobile ad-hoc network and methods for performing reactive routing therein using ad-hoc on-demand distance vector routing (AODV),https://patents.google.com/patent/US6718394B2/en
+Performance analysis of mobile ad-hoc network using AODV protocol,https://www.researchgate.net/profile/Aditya_Goel6/publication/41822884_Performance_Analysis_of_Mobile_Ad-hoc_Network_using_AODV_Protocol/links/580b80c308aeef1bfeeb5d03.pdf
+"Performance Evaluation of AODV variants on DDOS, Blackhole and Malicious attacks",https://pdfs.semanticscholar.org/4b5c/1c6fdd14cef2cefc5389e03989cf4750a0e8.pdf
+"Comparative Study of Adhoc Routing Protocol AODV, DSR and DSDV in Mobile Adhoc NETwork 1",http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.300.6970
+An improvement of AODV protocol based on reliable delivery in mobile ad hoc networks,https://ieeexplore.ieee.org/abstract/document/5283894/
+Scenario based performance analysis of AODV and OLSR in mobile ad hoc networks,http://www.ijcim.th.org/SpecialEditions/v15nSP4/P08SEARCC_ScenariobasedPerformanceAnalysis.pdf
+Geocast enhancements of AODV for vehicular networks,https://dl.acm.org/doi/abs/10.1145/581291.581307
+"Performance analysis of AODV, DSR, and swarm intelligence routing protocols in vehicular ad hoc network environment",https://ieeexplore.ieee.org/abstract/document/5189735/
+An improved AODV routing protocol for VANETs,https://ieeexplore.ieee.org/abstract/document/6096736/
+"Comparison of effectiveness of AODV, DSDV and DSR Routing Protocols in Mobile Ad hoc Networks",http://csjournals.com/IJITKM/PDF%203-1/64.pdf
+Bypass AODV: improving performance of ad hoc on-demand distance vector (AODV) routing protocol in wireless ad hoc networks,https://dl.acm.org/citation.cfm?id=1363180
+"Step by step procedural comparison of DSR, AODV and DSDV routing protocol",http://www.academia.edu/download/33342389/Step_by_Step_Procedural_Comparison_of_DSR__AODV_and_DSDV_Routing_Protocols.pdf
+Preventing aodv routing protocol from black hole attack,https://www.researchgate.net/profile/Lalit_Himral/publication/270905487_Preventing_AODV_Routing_Protocol_from_Black_Hole_Attack/links/54b9fae00cf24e50e93dcd59/Preventing-AODV-Routing-Protocol-from-Black-Hole-Attack.pdf
+Permissible throughput network feedback for adaptive multimedia in AODV MANETs,https://ieeexplore.ieee.org/abstract/document/937142/
+"Study and analysis of throughput, delay and packet delivery ratio in MANET for topology based routing protocols (AODV, DSR and DSDV)",https://pdfs.semanticscholar.org/3769/cf999c9f364c397866791c014e2ebbb0a029.pdf
+"Performance analysis of AODV, DSDV and DSR in MANETS",https://arxiv.org/abs/1402.2217
